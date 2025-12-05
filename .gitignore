@@ -1,0 +1,40 @@
+# Compiled binary files
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Object files
+*.o
+*.obj
+
+# Static and shared libs
+*.a
+*.la
+*.lo
+
+# Debug files
+*.gch
+*.pch
+*.dSYM/
+*.stackdump
+
+# Build system output
+build/
+bin/
+dist/
+
+# Temporary files
+*.tmp
+*.log
+
+# Editor/IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup files
+*~
+*.bak
